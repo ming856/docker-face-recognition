@@ -1,0 +1,3 @@
+if ypu want to use gpu in insightface
+please try to use right version whth pypi onnxruntime-gpu
+like cuda = 10.2 => onnxruntime-gpu = 1.5~1.6
